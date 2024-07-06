@@ -16,4 +16,4 @@ This Python script fetches match details from YallaKora for a specified date and
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/match-details-scraper.git
+   git clone https://github.com/SaadBarhrouj/match-details-scraper.git
